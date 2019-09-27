@@ -1,2 +1,3 @@
-# nodejs-sample-api
-Built sample apis
+Steps to run this sample APIs
+
+node server.js
